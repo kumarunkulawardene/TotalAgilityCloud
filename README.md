@@ -15,7 +15,7 @@ Bringing together all of the critical business systems, enterprise applications,
 
 
 ## Contents
-This repository includes collateral useful information about the TA Cloud Services including the following:
+In this repository I aim to share useful information and collateral about the TA Cloud Services including the following:
 - **Architecture diagrams**
 - **Best practices**
 - **Support information**
