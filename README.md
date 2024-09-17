@@ -1,4 +1,4 @@
-# TotalAgilityCloud
+# Total Agility Cloud Service
 
 > **Introduction**
 
