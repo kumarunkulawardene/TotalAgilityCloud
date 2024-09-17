@@ -12,3 +12,11 @@ Orchestrating digital workflows in collaboration with users, systems, and data t
 
 **Connected Systems**
 Bringing together all of the critical business systems, enterprise applications, legacy systems, mobile interactions, chatbots and more across internal and external business processes.
+
+
+> **Contents**
+This repository includes collateral useful information about the TA Cloud Services including the following:
+- Architecture diagrams
+- Best practices
+- Support information
+- Documentation
