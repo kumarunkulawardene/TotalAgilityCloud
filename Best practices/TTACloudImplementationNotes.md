@@ -192,41 +192,7 @@ Suggested training courses:
 #	Checklist
 Ensure the following checklist is completed and signed off by customer.  
 
-Items	Status
-Retention policies for Job data are discussed with the customer and configured	☐ Requirements Confirmed
-☐ Job retention setting configured.
 
-Retention policies for Document data are discussed with the customer and configured	☐ Requirements Confirmed
-☐ Job retention setting configured.
-
-Retention policies for Reporting and Insight Analytics data are discussed with the customer and configured	☐ Requirements Confirmed
-☐ Reporting retention settings configured.
-☐ KAFTA retention settings & load plans configured/scheduled.
-☐ APA Analytics retention settings & load plans configured/scheduled.
-☐ APA Log level set to “Error” or “None”.
-
-Retention policies for Audit data are discussed with the customer and configured	☐ Requirements Confirmed
-☐ Job retention setting configured.
-
-License allocation cross validated with the customer order. License thresholds set and alerts configured	☐ Alert recipients confirmed.
-☐ License counts validated.
-☐ Thresholds and alert exceptions maps configured.
-
-User Access management process is discussed with customer. Ensure customer understands the responsibilities and is familiar with the configuration and related documentation.	☐ Informed customer.
-☐ Shadowing/training provided on how to provision users and permissions.
-
-
-Customer informed about the product training pre-requisites and completed the training.	☐ Informed customer.
-☐ Customer has completed the product training.
-
-Monitoring options are explained to customer and configured	☐ Walked customer though the monitoring options.
-☐ Recipients to send alerts are confirmed.
-☐ Suspended jobs alerts configured.
-☐ MC failure notifications configured.
-
-Online Learning limits are set to 2000 less. Customer informed about Online Learning maintenance and the impact it has on the classification/extraction rates.	☐ Informed customer about OL maintenance tasks and impact
-☐ OL sample limits are set to 2000 or less.
-☐ Customer has completed the relevant training.
-
+[KTA Cloud Implementation Checklist.docx](https://github.com/user-attachments/files/17037454/KTA.Cloud.Implementation.Checklist.docx)
 
 
