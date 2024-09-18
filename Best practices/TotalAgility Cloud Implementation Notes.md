@@ -183,11 +183,12 @@ Kofax PS may be engaged in the initial stages of the implementation process, how
 
 Kofax PS should ensure customers do take up the recommended training courses and understand their responsibilities.
 Suggested training courses:
-•	Kofax Course Details - TotalAgility Administrator
-•	Kofax Course Details - TotalAgility Citizen Developer
-•	Kofax Course Details - TotalAgility Professional Developer
-•	Kofax Course Details - TotalAgility Master Class (Instructor-led) (for advance users)
-•	Kofax Course Details - AP Agility Solution Developer
+
+•	Kofax Course Details - TotalAgility Administrator  
+•	Kofax Course Details - TotalAgility Citizen Developer  
+•	Kofax Course Details - TotalAgility Professional Developer  
+•	Kofax Course Details - TotalAgility Master Class (Instructor-led) (for advance users)  
+•	Kofax Course Details - AP Agility Solution Developer  
 
 #	Checklist
 Ensure the following checklist is completed and signed off by customer.  
