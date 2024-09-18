@@ -172,7 +172,8 @@ Secondly customers should be informed and trained to ensure that the online lear
 
 See more information about Online Learning here: TD Online Learning Best Practise Guide 03052023.pdf
 
-6	User Access Management
+#	User Access Management
+
 Typically, when implementing KTA in on-premises customers would have a dedicated team to support the administration of the KTA application. However, with KTA cloud the customer’s expectation and understanding about their responsibilities might be different. We have observed that customers are not taking enough ownership of managing and administering the KTA platform as they expect it to be a fully managed SaaS service. This expectation is wrong, and we should advise customers to appoint dedicated resources to manage and administer the KTA platform.
 User Access Management is an area that the appointed customer application administrators should be responsible. In the initial stages of KTA project implementation, Kofax PS resources may have administrative access to the KTA designer to create user accounts and assign permissions in the Dev environment. But customer appointed application administrators should be managing the user provisioning and permissions going forward in the other environments. It is expected that the customer resources may not be trained to manage the user provisioning and permission management at the beginning. However, as a pre-requisite, customer resources should complete KTA product training and be prepared to take on the responsibility. During the implementation in the initial stage’s customer resources may shadow Kofax PS resources get familiar with the user provisioning and permission managing activities.
 The goal is to put the complete onus of managing access to the KTA platform onto the customer.
